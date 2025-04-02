@@ -1,0 +1,5 @@
+print("Hi I am a friendly chatbot")
+name = input("What is your name?")
+print(f"Hi {name} nice to meet you")
+age = input("What is your age?")
+print(f"What a coincidence! I am also {age} years old")
